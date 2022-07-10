@@ -14,3 +14,9 @@ ASB is, as the name suggests, a simplified version of brainfuck designed by me (
 ### Problems
 * Unable to handle nested loops (for now)
 * Written in python (that in and on itself is enough to make anyone puke)
+
+### Examples
+* Get four letters from the user
+`[4 ,>]`
+* Get four letters from the user and print them (and a newline character ( _ ))
+`[4 ,>][4 <][4 .>]_`
