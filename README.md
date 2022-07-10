@@ -16,7 +16,7 @@ ASB is, as the name suggests, a simplified version of brainfuck designed by me (
 * Written in python (that in and on itself is enough to make anyone puke)
 
 ### Examples
-* Get four letters from the user
+* Get four letters from the user:
 
 `[4 ,>]`
 
