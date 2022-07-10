@@ -17,6 +17,9 @@ ASB is, as the name suggests, a simplified version of brainfuck designed by me (
 
 ### Examples
 * Get four letters from the user
+
 `[4 ,>]`
-* Get four letters from the user and print them (and a newline character ( _ ))
+
+* Get four letters from the user and print them (and a newline character ( _ )):
+
 `[4 ,>][4 <][4 .>]_`
